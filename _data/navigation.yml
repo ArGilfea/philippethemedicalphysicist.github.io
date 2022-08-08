@@ -3,17 +3,17 @@ main:
   - title: 
     - en: "Publications"
     - fr: "Publications"
-    url: /publications/
+  - url: /publications/
 
   - title: 
     - en: "Talks"
     - fr: "Présentations"
-    url: /talks/    
+  - url: /talks/    
 
   - title: 
     - en: "Teaching"
     - fr: "Enseignement"
-    url: /teaching/    
+  - url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -24,14 +24,14 @@ main:
   - title: 
     - en: "CV"
     - fr: "CV"
-    url: /cv/
+  - url: /cv/
     
   - title: 
     - en: "Guide"
     - fr: "Guide"
-    url: /markdown/
+  - url: /markdown/
 
   - title:
     - en: "log"
     - fr: "log"
-    url: /log/
+  - url: /log/
