@@ -14,9 +14,9 @@
               {% assign domain = base_path %}
             {% endif %}
             {% if page.lang == 'en' %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.en.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title.en }}</a></li>
             {% else %}
-              <li class="masthead__menu-item"><a href="{{ domain }}/{{page.lang}}{{ link.url }}">{{ link[page.lang].title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}/{{page.lang}}{{ link.url }}">{{ link.title[page.lang] }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
