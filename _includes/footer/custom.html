@@ -4,12 +4,12 @@
 {{lang}}
     {% else %}
         {% if lang == site.default_lang %}
-<a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[page.lang].l10n.language_name | default: lang}}</a>
+<a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[lang].l10n.language_name | default: lang}}</a>
         {% else %}
             {% if page.lang == "en" %}
-<a href="/{{site.website_name}}/{{lang}}/{{page.permalink| remove_first: '/'}}">{{site.data[page.lang].l10n.language_name | default: lang}}</a>
+<a href="/{{site.website_name}}/{{lang}}/{{page.permalink| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
             {% else %}
-<a href="/{{site.website_name}}/{{lang}}/{{page.permalink | remove_first: '/' | remove_first: page.lang| remove_first: '/'}}">{{site.data[page.lang].l10n.language_name | default: lang}}</a>
+<a href="/{{site.website_name}}/{{lang}}/{{page.permalink | remove_first: '/' | remove_first: page.lang| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
             {% endif %}
         {% endif %}
     {% endif %}
