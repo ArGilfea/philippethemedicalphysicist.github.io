@@ -13,11 +13,11 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            {% if page.lang != 'en' %}
-              {% assign link.url = "/" | append: page.lang |append: link.url %}
+            {% if page.lang == 'en' %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% else %}
+              <li class="masthead__menu-item"><a href="{{ domain }}/{{page.lang}}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
-            {{page.lang}} {{link.url}}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
