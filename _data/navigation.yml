@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: {en: "Publications",fr: "Publications"}
+  - title: {en: "Publications",fr: "Publications",de: "Publikationen"}
     url: /publications/
 
-  - title: {en: "Talks",fr: "Présentations"}
+  - title: {en: "Talks",fr: "Présentations",de: "Präsentationen"}
     url: /talks/    
 
-  - title: {en: "Teaching",fr: "Enseignement"}
+  - title: {en: "Teaching",fr: "Enseignement",de: "Lehre"}
     url: /teaching/    
     
 #  - title: "Portfolio"
@@ -15,11 +15,11 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: {en: "CV",fr: "CV"}
+  - title: {en: "CV",fr: "CV",de: "Lebenslauf"}
     url: /cv/
     
-  - title: {en: "Guide", fr: "Guide"}
+  - title: {en: "Guide", fr: "Guide", de: "Handbuch"}
     url: /markdown/
 
-  - title: {en: "log",fr: "log"}
+  - title: {en: "log",fr: "log", de: "Log"}
     url: /log/
