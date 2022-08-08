@@ -1,7 +1,7 @@
 <!-- start custom footer snippets -->
 {% for lang in site.languages %}
     {% if lang == page.lang %}
-{{lang}}
+{{site.data[lang].l10n.language_name | default: lang}}
     {% else %}
         {% if lang == site.default_lang %}
 <a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[lang].l10n.language_name | default: lang}}</a>
