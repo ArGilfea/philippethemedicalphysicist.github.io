@@ -1,16 +1,15 @@
 <div class="message-box" id="no-translation-msg">
-    Désolé, mais cette page n'existe pas en français.<br>
-    Essayez les autres versions:
+    {{site.data[page.lang].l10n.no_translation }}
     <ul>
         {% for lang in site.languages %}
             {% if page.lang != lang %}
                 {% if lang == site.default_lang %}
-<a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+<li><a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[lang].l10n.language_name | default: lang}}</a></li>
                 {% else %}
                     {% if page.lang == "en" %}
-<a href="/{{site.website_name}}/{{lang}}/{{page.permalink| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+<li>><a href="/{{site.website_name}}/{{lang}}/{{page.permalink| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a></li
                     {% else %}
-<a href="/{{site.website_name}}/{{lang}}/{{page.permalink | remove_first: '/' | remove_first: page.lang| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+<li><a href="/{{site.website_name}}/{{lang}}/{{page.permalink | remove_first: '/' | remove_first: page.lang| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a></li
                     {% endif %}
                 {% endif %}
             {% endif %}
