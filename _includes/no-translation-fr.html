@@ -1,3 +1,19 @@
 <div class="message-box" id="no-translation-msg">
-    Désolé, mais cette page n'existe pas en français.
+    Désolé, mais cette page n'existe pas en français.<br>
+    Essayez les autres versions:
+    <ul>
+        {% for lang in site.languages %}
+            {% if page.lang != lang %}
+                {% if lang == site.default_lang %}
+<a href="/{{site.website_name}}{{page.permalink | remove_first: '/' | remove_first: page.lang }}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+                {% else %}
+                    {% if page.lang == "en" %}
+<a href="/{{site.website_name}}/{{lang}}/{{page.permalink| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+                    {% else %}
+<a href="/{{site.website_name}}/{{lang}}/{{page.permalink | remove_first: '/' | remove_first: page.lang| remove_first: '/'}}">{{site.data[lang].l10n.language_name | default: lang}}</a>
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
 </div>
