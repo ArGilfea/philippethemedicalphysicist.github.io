@@ -83,7 +83,7 @@ analytics:
 author:
   name             : {en: "Philippe the future Medical Physicist",fr: "Philippe le future physicien médical",de: "Philippe der künftige Medizinphysiker",la: "Philippus futurus physicus medicinae"}
   avatar           : "Itsame.png"
-  bio              : {en: "Ph. D. Student at the Université de Montréal"}
+  bio              : {en: "Ph. D. Student at the Université de Montréal",fr: "Étudiant au doctorat à l'Université de Montréal",de: "Ph.D. Student an der Montréal Universiteit",la: "Discipulus Universitatis Montrealis"}
   location         : "Montréal, PQ, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
