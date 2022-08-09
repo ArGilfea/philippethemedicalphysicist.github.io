@@ -7,4 +7,4 @@ lang: fr
 redirect_from: 
   - /log/
 ---
-{%- include no-translation-fr.html -%}
+{%- include no-translation.html -%}
