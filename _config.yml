@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Philippe the future Medical Physicist 1/ My Personal Website"
+title                    : "Philippe the future Medical Physicist/ My Personal Website"
 title_separator          : "-"
-name                     : &name "Philippe the future Medical Physicist 1"
+name                     : &name "Philippe the future Medical Physicist"
 description              : &description "I am currently a graduate student (Ph.D.) in Medical Physics at the University of Montréal (UdeM). I am specialising in Nuclear Medicine and Image Processing."
 url                      : https://argilfea.github.io/philippethemedicalphysicist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philippe the Medical Physicist"
+  name             : {en: "Philippe the future Medical Physicist",fr: "Philippe le future physicien médical",de: "Philippe der künftige Medizinphysiker",la: "Philippus futurus physicus medicinae"}
   avatar           : "Itsame.png"
   bio              : "Ph. D. Student at the Université de Montréal"
   location         : "Montréal, PQ, Canada"
