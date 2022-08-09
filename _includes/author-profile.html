@@ -8,15 +8,15 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name[page.lang] }}">
+    	<img src="{{ author.avatar }}" alt="{{ author.name[page.lang] | default: author.name.en }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name[page.lang] }}">
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name[page.lang] | default: author.name.en }}">
     {% endif %}
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name[page.lang] }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h3 class="author__name">{{ author.name[page.lang] | default: author.name.en }}</h3>
+    {% if author.bio[page.lang] %}<p class="author__bio">{{ author.bio[page.lang] | default: author.bio.en }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
