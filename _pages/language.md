@@ -9,5 +9,5 @@ redirect_from:
     - /languages/
 ---
 {% for post in site.language_stuff reversed %}
-  <a href="{{ post.link }}">{{ post.title }}</a>
+  <a href="{{ post.permalink }}">{{ post.title }}</a>
 {% endfor %}
