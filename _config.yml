@@ -191,7 +191,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  language_stuff:
+    output: true
+    permalink: /:collection/:path/
+  science_stuff:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
