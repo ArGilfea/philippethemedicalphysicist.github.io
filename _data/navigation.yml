@@ -21,5 +21,8 @@ main:
   - title: {en: "Guide", fr: "Guide", de: "Handbuch",la: "Directivum"}
     url: /markdown/
 
+  - title: {en: "Languages",fr: "Langues",de: "Sprachen",la: "Linguae"}
+    url: /language/
+
   - title: {en: "log",fr: "log", de: "Log",la: "Ephemeris"}
     url: /log/
