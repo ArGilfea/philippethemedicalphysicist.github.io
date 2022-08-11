@@ -10,7 +10,7 @@ redirect_from:
 ---
 Magic sheet for Sanskrit (under construction): 
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Sanskrit_Magic_Sheet_v3.pdf)<br>
-Excel for Vocab Deck:
+Excel for Vocab Deck (under construction):
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Sanskrit_Magic_Sheet_v3.pdf)<br>
-Excel for Declension Deck:
+Excel for Declension Deck (under construction):
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Sanskrit_Magic_Sheet_v3.pdf)<br>
