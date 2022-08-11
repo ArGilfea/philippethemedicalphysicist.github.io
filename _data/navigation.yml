@@ -24,7 +24,7 @@ main:
   - title: {en: "Languages",fr: "Langues",de: "Sprachen",la: "Linguae"}
     url: /language/
   
-  - title: {en: "Languages",fr: "Langues",de: "Sprachen",la: "Linguae"}
+  - title: {en: "Sciences",fr: "Sciences",de: "Wissenschat",la: "Scientiae"}
     url: /language/
 
   - title: {en: "log",fr: "log", de: "Log",la: "Ephemeris"}
