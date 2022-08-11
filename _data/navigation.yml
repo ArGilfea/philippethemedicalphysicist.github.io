@@ -25,7 +25,7 @@ main:
     url: /language/
   
   - title: {en: "Sciences",fr: "Sciences",de: "Wissenschat",la: "Scientiae"}
-    url: /language/
+    url: /science/
 
   - title: {en: "log",fr: "log", de: "Log",la: "Ephemeris"}
     url: /log/
