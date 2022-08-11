@@ -8,6 +8,7 @@ lang: en
 redirect_from: 
     - /sciences/
 ---
+Stuff yet to be added!
 {% for post in site.science_stuff reversed %}
-  <a href="{{ post.link }}">{{ post.title }}</a>
+  <a href="{{ post.permalink }}">{{ post.title }}</a>
 {% endfor %}
