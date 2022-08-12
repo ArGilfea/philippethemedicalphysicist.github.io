@@ -7,6 +7,9 @@ author_profile: true
 lang: en
 redirect_from: 
     - /sciences/
+    - /fr/sciences/
+    - /de/sciences/
+    - /la/sciences/
 ---
 Stuff yet to be added!
 {% for post in site.science_stuff reversed %}

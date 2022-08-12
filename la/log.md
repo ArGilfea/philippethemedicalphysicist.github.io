@@ -1,7 +1,7 @@
 ---
 permalink: /la/log
-title: "Journal de Bord"
-excerpt: "Quoi de neuf?"
+title: "Ephemeris"
+excerpt: "Rei novae?"
 author_profile: true
 lang: la
 ---

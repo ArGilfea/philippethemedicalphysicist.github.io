@@ -1,7 +1,7 @@
 ---
 permalink: /de/log
-title: "Journal de Bord"
-excerpt: "Quoi de neuf?"
+title: "Log"
+excerpt: "Etwas Neues?"
 author_profile: true
 lang: de
 ---

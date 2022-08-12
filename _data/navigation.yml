@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: {en: "Languages",fr: "Langues",de: "Sprachen",la: "Linguae"}
+    url: /language/
+  
+  - title: {en: "Sciences",fr: "Sciences",de: "Wissenschat",la: "Scientiae"}
+    url: /science/
+    
   - title: {en: "Publications",fr: "Publications",de: "Publikationen",la: "Publicatio"}
     url: /publications/
 
@@ -20,12 +26,6 @@ main:
     
   - title: {en: "Guide", fr: "Guide", de: "Handbuch",la: "Directivum"}
     url: /markdown/
-
-  - title: {en: "Languages",fr: "Langues",de: "Sprachen",la: "Linguae"}
-    url: /language/
-  
-  - title: {en: "Sciences",fr: "Sciences",de: "Wissenschat",la: "Scientiae"}
-    url: /science/
 
   - title: {en: "log",fr: "log", de: "Log",la: "Ephemeris"}
     url: /log/
