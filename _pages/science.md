@@ -10,6 +10,9 @@ redirect_from:
     - /fr/sciences/
     - /de/sciences/
     - /la/sciences/
+    - /fr/science/
+    - /de/science/
+    - /la/science/
 ---
 Stuff yet to be added!
 {% for post in site.science_stuff reversed %}
