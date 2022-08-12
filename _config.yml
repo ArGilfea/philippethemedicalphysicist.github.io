@@ -262,6 +262,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _language_stuff
+  - scope:
+      path: ""
+      type: language_stuff
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _science_stuff
+  - scope:
+      path: ""
+      type: science_stuff
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
