@@ -199,6 +199,7 @@ collections:
     permalink: /:collection/:path/
 
 # Defaults
+#Allows, amon others, for the profile picture to appear
 defaults:
   # _posts
   - scope:
