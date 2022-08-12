@@ -11,5 +11,5 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.language_stuff reversed %}
-  <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+  {% include archive-single.html %}
 {% endfor %}
