@@ -7,6 +7,14 @@ author_profile: true
 lang: en
 redirect_from: 
     - /languages/
+    - /en/language/
+    - /en/languages/
+    - /fr/language/
+    - /fr/languages/
+    - /de/language/
+    - /de/languages/
+    - /la/language/
+    - /la/languages/
 ---
 {% include base_path %}
 
