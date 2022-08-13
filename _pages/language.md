@@ -18,6 +18,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-{% for post in site.language_stuff reversed %}
+{% for post in site.language_stuff %}
   {% include archive-single.html %}
 {% endfor %}
