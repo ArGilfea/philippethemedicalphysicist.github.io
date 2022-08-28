@@ -9,7 +9,7 @@ redirect_from:
     - /languages/magic_sheets/
 ---
 This page lists all the magic sheets that I have made for languages. All of them are under construction right now. <br>
-All these magic sheets are based upon those by Baker (for Old English) and Alastair (for Old Norse).<br>
+All these magic sheets are based upon those by Baker (for Old English) and Alaric (for Old Norse).<br>
 Magic sheet for Ancient Greek (under construction): 
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Ancient_Greek_Magic_Sheet_v1.pdf)<br>
 Magic sheet for Coptic (under construction): 
