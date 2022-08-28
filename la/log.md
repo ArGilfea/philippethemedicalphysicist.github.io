@@ -1,5 +1,5 @@
 ---
-permalink: /la/log
+permalink: /la/log/
 title: "Ephemeris"
 excerpt: "Rei novae?"
 author_profile: true
