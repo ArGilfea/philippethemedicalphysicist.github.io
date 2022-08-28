@@ -7,6 +7,8 @@ author_profile: true
 lang: en
 redirect_from: 
     - /fr/languages/
+    - /fr/langue/
+    - /fr/langues/
 ---
 {% include base_path %}
 
