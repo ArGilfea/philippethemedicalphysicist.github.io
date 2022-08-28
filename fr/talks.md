@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Présentations et oraux"
 permalink: /fr/talks/
 author_profile: true
 lang: fr
