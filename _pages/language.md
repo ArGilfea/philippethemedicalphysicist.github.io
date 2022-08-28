@@ -9,8 +9,6 @@ redirect_from:
     - /languages/
     - /en/language/
     - /en/languages/
-    - /fr/language/
-    - /fr/languages/
     - /de/language/
     - /de/languages/
     - /la/language/
