@@ -24,8 +24,8 @@ main:
   - title: {en: "CV",fr: "CV",de: "Lebenslauf",la: "CV"}
     url: /cv/
     
-  - title: {en: "Guide", fr: "Guide", de: "Handbuch",la: "Directivum"}
-    url: /markdown/
+#  - title: {en: "Guide", fr: "Guide", de: "Handbuch",la: "Directivum"}
+#    url: /markdown/
 
   - title: {en: "log",fr: "log", de: "Log",la: "Ephemeris"}
     url: /log/
