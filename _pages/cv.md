@@ -19,32 +19,47 @@ Education
 
 Academic work experience
 ======
-* Research Assistant
+* Tutor (UdeM)
+  * Since February 2022
+  * Université de Montréal
+  * Physics and Mathematics
+
+* Research Assistant (U of T)
   * Academic year 2018: October 2018 to March 2019
   * University of Toronto
   * Medieval French Literature
   * Supervisor: Dorothea Kullmann
 
-* Research Assistant
+* Tutor (BU)
+  * From January 2014 to December 2017
+  * Bishop's University
+  * Physics and Mathematics
+
+* Marker (BU)
+  * From 2016 to 2017
+  * For Matrix Algebra (MAT108), Introduction to Discrete Mathematics (MAT200), Differential and Integral Calculus (MAT199), and Advanced Calculus I (MAT206)
+  * Under Trevor Jones, François Huard, and Brad Willms
+
+* Research Assistant (BU)
   * Summers 2016 & 2017
   * Bishop's University
   * Relativistic Quantum Mechanics
   * Supervisor: Ariel Edery
 
-* Research Assistant
+* Research Assistant (BU)
   * Summer 2016
   * Bishop's University
   * For an independent study class
   * Theory of Representation of Algebra
   * Supervisor: Thomas Brüstle
 
-* Research Assistant
+* Research Assistant (BU)
   * Summer 2015
   * Bishop's University
   * General Relativity and Cosmology
   * Supervisor: Ariel Edery
 
-* Research Assistant
+* Research Assistant (BU)
   * Summer 2014
   * Bishop's University
   * Computational Astrophysics
