@@ -21,4 +21,4 @@ Magic sheet for Japanese (under construction):
 Magic sheet for Old Irish (under construction): 
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Old_Irish_Magic_Sheet_v1.pdf)<br>
 Magic sheet for Sanskrit (under construction): 
-[Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Sanskrit_Magic_Sheet_v3.pdf)<br>
+[Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Sanskrit_Magic_Sheet_v4.pdf)<br>
