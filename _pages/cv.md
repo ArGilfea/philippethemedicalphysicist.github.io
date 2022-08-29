@@ -16,26 +16,69 @@ Education
 * M.A. in Medieval Studies, Toronto University, On, Canada, 2019
 * Ph.D in Medical Physics under way, 2019-
 
-Work experience
+Academic work experience
 ======
-* Summer 2015: Research Assistant
-  * Bishop's University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Academic year 2018: October 2018 to March 2019
+  * University of Toronto
+  * Medieval French Literature
+  * Supervisor: Dorothea Kullmann
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Research Assistant
+  * Summers 2016 & 2017
+  * Bishop's University
+  * Relativistic Quantum Mechanics
+  * Supervisor: Ariel Edery
+
+* Research Assistant
+  * Summer 2016
+  * Bishop's University
+  * For an independent study class
+  * Theory of Representation of Algebra
+  * Supervisor: Thomas Brüstle
+
+* Research Assistant
+  * Summer 2015
+  * Bishop's University
+  * General Relativity and Cosmology
+  * Supervisor: Ariel Edery
+
+* Research Assistant
+  * Summer 2014
+  * Bishop's University
+  * Computational Astrophysics
+  * Supervisor: Lorne Nelson
+
+Professional work experience
+======
+* Administrative clerk at Charles-Lemoyne Hospital
+  * Since September 2017
+  * Medical Archives
+  * Emergency Ward
+  * Medical Imaging: Magnetic Resonance Imaging
+
+* Personal Assistant to the Venerable Dr Edward Simonton OGS, Vicar General and Archdeacon of Québec
+  * Summer 2017
+
+* Lift Driver at Olymel (Boucherville)
+  * Summer 2015
+
+* Technician, sellsman and delivery man at Propane 2000 (Varennes)
+  * Summers 2011, 2012, and 2013
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Bash
+* Modern Languages
+  * French (native)
+  * English (B.Sc. & M.A.)
+  * Italian and German (Basics)
+* Ancient Languages
+  * Latin
+  * Old French
+  * Old English
 
 Publications
 ======
@@ -54,7 +97,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
