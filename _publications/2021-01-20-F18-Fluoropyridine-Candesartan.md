@@ -11,4 +11,4 @@ citation: 'Diaz, A et al.<i>Evaluation of the high affinity [<sup>18</sup>F]fluo
 ---
 This paper is about pharmacokinetic for a renal hypertension drug.<br>
 
-[Download paper here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/F18.pdf)
+[Download paper here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Publications/F18.pdf)

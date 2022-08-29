@@ -11,4 +11,4 @@ citation: 'Diaz, A et al.<i>Evaluation of the high affinity [<sup>18</sup>F]fluo
 ---
 Cet article discute d'aspects de pharmacocinétiques pour un médicament avec un radiotraceur, dans le but qu'il soit utilisé pour l'hypertension rénale.<br>
 
-[Téléchargez l'article ici](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/F18.pdf)
+[Téléchargez l'article ici](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Publications/F18.pdf)
