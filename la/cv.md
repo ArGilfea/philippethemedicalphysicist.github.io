@@ -10,3 +10,4 @@ redirect_from:
 ---
 
 {%- include no-translation.html -%}
+{%- include not-built.html -%}
