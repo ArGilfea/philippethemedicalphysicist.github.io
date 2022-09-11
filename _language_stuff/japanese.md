@@ -19,4 +19,7 @@ File for Declension Deck (verbs and adjectives) (under construction):
 For Wanikani, here are the name of some third party scripts that I appreciate:<br>
 <b>Level SRS Detail</b>: 
 <a href="https://community.wanikani.com/t/userscript-level-srs-details/48357" target="_blank" rel="noopener noreferrer">Info Link</a>
-<a href="https://greasyfork.org/en/scripts/400538-wanikani-level-srs-details" target="_blank" rel="noopener noreferrer">Download Link</a>
+<a href="https://greasyfork.org/en/scripts/400538-wanikani-level-srs-details" target="_blank" rel="noopener noreferrer">Download Link</a><br>
+<b>Wanikani Levels Overview Plus</b>: 
+<a href="https://community.wanikani.com/t/userscript-enhanced-levels-overview/40951" target="_blank" rel="noopener noreferrer">Info Link</a>
+<a href="https://greasyfork.org/en/scripts/394132-wanikani-levels-overview-plus" target="_blank" rel="noopener noreferrer">Download Link</a><br>
