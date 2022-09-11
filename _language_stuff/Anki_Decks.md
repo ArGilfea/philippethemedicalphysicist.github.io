@@ -11,7 +11,7 @@ redirect_from:
 
 * Sanskrit:
     * Files for Vocab Deck (under construction):
-        [Excel](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Anki.xlsx)
-        [CSV](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Anki_v9.csv)<br>
+        <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Anki.xlsx" target="_blank" rel="noopener noreferrer">Excel</a>
+        <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Anki_v9.csv" target="_blank" rel="noopener noreferrer">CSV</a><br>
     * File for Declension Deck (under construction):
-        [Excel](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Declension.xlsx)<br>
+        <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Sanskrit_Declension.xlsx" target="_blank" rel="noopener noreferrer">Excel</a>
