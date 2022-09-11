@@ -19,7 +19,3 @@ redirect_from:
 {% for post in site.language_stuff %}
   {% include archive-single-language.html %}
 {% endfor %}
-
-{% for post in site.language_stuff %}
-  {% include archive-single.html %}
-{% endfor %}
