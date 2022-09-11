@@ -17,7 +17,7 @@ Magic sheet for Coptic (under construction):
 Magic sheet for Hittite (under construction): 
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Hittite_Magic_Sheet_v2.pdf)<br>
 Magic sheet for Japanese (under construction): 
-[Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Japanese_Magic_Sheet_v1.pdf)<br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Japanese_Magic_Sheet_v1.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
 Magic sheet for Old Irish (under construction): 
 [Download here](https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Old_Irish_Magic_Sheet_v1.pdf)<br>
 Magic sheet for Sanskrit (under construction): 
