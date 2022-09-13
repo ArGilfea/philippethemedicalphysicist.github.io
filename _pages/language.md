@@ -17,5 +17,5 @@ redirect_from:
 {% include base_path %}
 
 {% for post in site.language_stuff %}
-  {% include archive-single.html %}
+  {% include archive-single-language.html %}
 {% endfor %}
