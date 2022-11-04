@@ -10,6 +10,8 @@ redirect_from:
 ---
 This page lists all the magic sheets that I have made for languages. All of them are under construction right now. <br>
 All these magic sheets are based upon those by Baker (for Old English) and Alaric (for Old Norse).<br>
+Magic sheet for Akkadian (under construction):
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Akkadian_Magic_Sheet_v1.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
 Magic sheet for Ancient Greek (under construction): 
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/Languages/Ancient_Greek_Magic_Sheet_v1.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
 Magic sheet for Coptic (under construction): 
