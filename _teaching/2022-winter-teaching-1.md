@@ -9,12 +9,3 @@ location: "Montréal, Qc, Ca"
 ---
 
 Teaching assistant for the class PHY2300 Introduction à la Physique Médicale à l'Université de Montréal during the winter semesters 2022 and 2023.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
