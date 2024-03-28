@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Enseignement"
-permalink: /fr/teaching/
+permalink: //teaching/
 author_profile: true
 lang: fr
 ---
