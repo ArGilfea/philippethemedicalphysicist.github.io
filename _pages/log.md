@@ -7,6 +7,7 @@ lang: en
 redirect_from: 
   - /log/
 ---
+2024-03-28: Added teaching material and STEM-VIEW github link.<br>
 2024-02-07: Added teaching material and STEM-VIEW hyperlink.<br>
 2022-08-29: Added talks and skills for the CV.<br>
 2022-08-28: Added some empty pages for French, German and Latin websites.<br>
