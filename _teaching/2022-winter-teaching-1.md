@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2022-winter-teaching
 venue: "Université de Montréal, Department of physics"
 date: 2022-01-01
+lang: en
 location: "Montréal, Qc, Ca"
 ---
 
