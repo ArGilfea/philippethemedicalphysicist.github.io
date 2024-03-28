@@ -16,9 +16,9 @@ redirect_from:
     - /la/sciences/rat/
     - /de/sciences/rat/
 ---
-This image is a dynamic PET acquisition of rat with [<sup>18</sup>F]fluoropyridine-candesartan over a period of roughly an hour:<br>
+This image is a dynamic PET acquisition of rat with [<sup>18</sup>F]fluoropyridine-candesartan over a period of roughly an hour:<br> 
 <center>
-<video id="Steve" width="520" height="520" autoplay loop>
+<video width="520" height="520" controls autoplay loop muted>
   <source src="https://argilfea.github.io/philippethemedicalphysicist.github.io/gifs/Rat_Gif.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
