@@ -1,11 +1,10 @@
 ---
-title: "Teaching Assistant"
+title: "Auxiliaire d'Enseignement"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2022-winter-teaching
-venue: "Université de Montréal, Department of physics"
+type: "Cours sous-gradué"
+permalink: /fr/teaching/2022-winter-teaching
+venue: "Université de Montréal, Département de physique"
 date: 2022-01-01
 location: "Montréal, Qc, Ca"
 ---
-
-Teaching assistant for the class PHY2300 Introduction à la Physique Médicale à l'Université de Montréal during the winter semesters 2022 and 2023.
+Auxiliaire d'enseignement pour le cours PHY2300: Introduction à la physique médicale à l'Université de Montréal pour les semestres d'hiver 2022 et 2023.
