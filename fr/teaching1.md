@@ -5,6 +5,7 @@ permalink: //teaching/
 author_profile: true
 lang: fr
 ---
+X
 {% include base_path %}
 
 {% for post in site.teaching_fr reversed %}
