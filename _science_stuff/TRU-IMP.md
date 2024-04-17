@@ -22,4 +22,4 @@ The source code is located at [GitHub](https://github.com/ArGilfea/TRU-IMP).
 
 The temporary host website is [here](https://argilfea.github.io/philippethemedicalphysicist.github.io/science/TRU-IMP/)
 
-A .dmg and .exe files for use without installation for iOS and Windows users are available at [Google Drive](https://drive.google.com/drive/folders/1JcUJs54d8RtoR1eFdFIFpP1lycYELKjY?usp=sharing)
+A .dmg and .exe files for use without installation for iOS and Windows users are available at [DropBox](https://www.dropbox.com/scl/fo/567k83rjf3hucael7bgii/h?rlkey=9r7f8sb5cn9smerflco0lhzl3&dl=0)

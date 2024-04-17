@@ -21,4 +21,4 @@ It is entirely written in Python.<br>
 
 The source code is located at [GitHub](https://github.com/ArGilfea/STEM_View).
 
-A .dmg and .exe files for use without installation for iOS and Windows users are available at [Google Drive](https://drive.google.com/drive/folders/1zDAGOYDsEz8v7hKqeRIb5H-jw9j4-z67)
+A .dmg and .exe files for use without installation for iOS and Windows users are available at [DropBox](https://www.dropbox.com/scl/fo/re4citlk5ccoz1xh23soq/AHzVrDjkDdYfv546yHxuDdo?rlkey=ya30lirwivy4j5ji1zlxer8vx&dl=0)
