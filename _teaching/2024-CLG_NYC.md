@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "Instructor"
 collection: teaching
 type: "College course"
 permalink: /teaching/2024-NYC
@@ -22,4 +22,4 @@ Sample Minitest (and solution):
 <br>
 
 Sample Supplemental Material: 
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Convolution avec Delta-Dirac</a><br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Seismic Wave</a><br>
