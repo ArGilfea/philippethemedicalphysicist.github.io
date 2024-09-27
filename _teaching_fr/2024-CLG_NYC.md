@@ -22,4 +22,4 @@ Exemples de minitest et leur solution:
 <br>
 
 Exemple de matériel supplémentaire: 
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Convolution avec Delta-Dirac</a><br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Onde Sismique</a><br>
