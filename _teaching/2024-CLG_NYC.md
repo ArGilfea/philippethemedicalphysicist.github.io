@@ -17,6 +17,8 @@ Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_1_NYC_A24_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_2_NYC_A24_Pratique.pdf" target="_blank" rel="noopener noreferrer">Minitest 2 Formatif</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_2_NYC_A24_Pratique_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_2_NYC_A24.pdf" target="_blank" rel="noopener noreferrer">Minitest 2</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_2_NYC_A24_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <br>
 
 Sample Supplemental Material: 
