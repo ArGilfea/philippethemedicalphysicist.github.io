@@ -12,10 +12,14 @@ Lecturer for the class NYC Waves and Optics at Collège Lionel-Groulx during the
 
 Here is some sample material. The class having been taught at the Collège Lionel-Groulx, everything is in French.<br>
 
-Sample Practice Exam:
-Sample Practice Exam:
+Sample Practice First Exam:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+
+Sample First Exam:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Enonce.pdf" target="_blank" rel="noopener noreferrer">A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+
 
 Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_1_NYC_A24.pdf" target="_blank" rel="noopener noreferrer">Minitest 1</a>
