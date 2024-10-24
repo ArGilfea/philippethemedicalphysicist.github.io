@@ -38,3 +38,4 @@ Sample Minitest (and solution):
 
 Sample Supplemental Material: 
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Seismic Wave</a><br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Dispersion_Prisme.pdf" target="_blank" rel="noopener noreferrer">Dispersion in a Prism</a><br>
