@@ -13,12 +13,16 @@ Lecturer for the class NYC Waves and Optics at Collège Lionel-Groulx during the
 Here is some sample material. The class having been taught at the Collège Lionel-Groulx, everything is in French.<br>
 
 Sample Practice First Exam:
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Practice Exam 1 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 Sample First Exam:
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Enonce.pdf" target="_blank" rel="noopener noreferrer">A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Enonce.pdf" target="_blank" rel="noopener noreferrer">Exam 1 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+
+Sample Practice Second Exam:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Practice Exam 2 A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 
 Sample Minitest (and solution):
@@ -34,6 +38,8 @@ Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_3_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4 Practice</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <br>
 
 Sample Supplemental Material: 

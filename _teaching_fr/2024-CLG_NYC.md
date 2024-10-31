@@ -13,13 +13,16 @@ Chargé de cours remplaçant pour le cours NYC: Ondes et Physique Moderne durant
 Voici quelques exemples de matériel présenté en classe. Tout le matériel est en français.<br>
 
 Exemples de premier examen formatif:
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Formatif A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Formatif 1 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Formatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 Exemples de premier examen:
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Enonce.pdf" target="_blank" rel="noopener noreferrer">A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen 1 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_1_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
+Exemples de deuxième examen formatif:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Formatif 2 A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 
 Exemples de minitest et leur solution:
@@ -35,6 +38,9 @@ Exemples de minitest et leur solution:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_3_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4 Formatif</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+
 <br> 
 
 Exemple de matériel supplémentaire: 
