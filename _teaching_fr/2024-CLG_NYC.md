@@ -34,12 +34,12 @@ Exemples de minitest et leur solution:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_2_NYC_A24_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest3_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 3 Formatif</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest3_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_3_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 3</a>
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_3_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest3_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 3</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest3_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4 Formatif</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4</a>
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 
 <br> 
 
