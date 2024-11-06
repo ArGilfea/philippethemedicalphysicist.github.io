@@ -43,6 +43,10 @@ Exemples de minitest et leur solution:
 
 <br> 
 
-Exemple de matériel supplémentaire: 
+Exemples de Feuilles de Route:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/FeuilleDeRoute2.pdf" target="_blank" rel="noopener noreferrer">Feuille de Route 2</a><br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/FeuilleDeRoute3.pdf" target="_blank" rel="noopener noreferrer">Feuille de Route 3</a><br>
+
+Exemples de matériel supplémentaire: 
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Onde Sismique</a><br>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Dispersion_Prisme.pdf" target="_blank" rel="noopener noreferrer">Dispersion dans un Prisme</a><br>

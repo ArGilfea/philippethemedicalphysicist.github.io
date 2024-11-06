@@ -42,6 +42,10 @@ Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <br>
 
+Sample Recommended Exercises:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/FeuilleDeRoute2.pdf" target="_blank" rel="noopener noreferrer">Feuille de Route 2</a><br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/FeuilleDeRoute3.pdf" target="_blank" rel="noopener noreferrer">Feuille de Route 3</a><br>
+
 Sample Supplemental Material: 
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Tremblement_de_Terre_Onde.pdf" target="_blank" rel="noopener noreferrer">Seismic Wave</a><br>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Dispersion_Prisme.pdf" target="_blank" rel="noopener noreferrer">Dispersion in a Prism</a><br>
