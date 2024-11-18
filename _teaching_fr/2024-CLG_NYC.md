@@ -24,6 +24,10 @@ Exemples de deuxième examen formatif:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Formatif 2 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
+Exemples de deuxième examen:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen 2 A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+
 
 Exemples de minitest et leur solution:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_1_NYC_A24.pdf" target="_blank" rel="noopener noreferrer">Minitest 1</a>

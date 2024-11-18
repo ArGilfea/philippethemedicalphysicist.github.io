@@ -24,6 +24,9 @@ Sample Practice Second Exam:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Practice Exam 2 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
+Sample Second Exam:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_Enonce.pdf" target="_blank" rel="noopener noreferrer">Exam 2 A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest_1_NYC_A24.pdf" target="_blank" rel="noopener noreferrer">Minitest 1</a>
