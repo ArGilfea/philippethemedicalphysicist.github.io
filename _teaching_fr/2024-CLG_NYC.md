@@ -44,6 +44,8 @@ Exemples de minitest et leur solution:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 4</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 5 Formatif</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 
 <br> 
 
