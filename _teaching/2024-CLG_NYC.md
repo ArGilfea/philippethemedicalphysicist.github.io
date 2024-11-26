@@ -45,7 +45,8 @@ Sample Minitest (and solution):
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest4_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 5 Practice</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
-
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 5</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 6 Practice</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <br>
