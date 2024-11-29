@@ -50,6 +50,8 @@ Exemples de minitest et leur solution:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest5_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 6 Formatif</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_Enonce.pdf" target="_blank" rel="noopener noreferrer">Minitest 6</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Minitest6_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;
 <br> 
 
 Exemples de Feuilles de Route:
