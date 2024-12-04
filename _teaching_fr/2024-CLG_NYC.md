@@ -27,8 +27,8 @@ Exemples de deuxième examen:
 Exemples d'examen de laboratoire:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen de laboratoire formatif A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen de laboratoire A24</a>
-<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoire_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen de laboratoire A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoire_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 
 Exemples de minitest et leur solution:

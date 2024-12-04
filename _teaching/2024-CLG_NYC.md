@@ -27,6 +27,8 @@ Sample Second Exam:
 Sample Lab Exam
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Practice Lab Exam A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoire_Enonce.pdf" target="_blank" rel="noopener noreferrer">Lab Exam A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoire_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
 
 Sample Minitest (and solution):
