@@ -24,6 +24,10 @@ Exemples de deuxième examen:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen 2 A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_2_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
 
+Exemples de troisième examen:
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_3_F_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen Formatif 3 A24</a>
+<a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/Examen_3_F_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
+
 Exemples d'examen de laboratoire:
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_Enonce.pdf" target="_blank" rel="noopener noreferrer">Examen de laboratoire formatif A24</a>
 <a href="https://argilfea.github.io/philippethemedicalphysicist.github.io/files/TeachingMaterial/NYC/ExamenLaboratoireFormatif_SOL.pdf" target="_blank" rel="noopener noreferrer">Sol</a> &nbsp;<br>
