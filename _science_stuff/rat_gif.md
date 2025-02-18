@@ -18,8 +18,14 @@ redirect_from:
 ---
 This image is a dynamic PET acquisition of rat with [<sup>18</sup>F]fluoropyridine-candesartan over a period of roughly an hour:<br> 
 <center>
-<video width="520" height="520" controls autoplay loop muted>
+<video id="ratDyn" width="520" height="520" controls autoplay loop muted playbackrate="0.5">
   <source src="https://argilfea.github.io/philippethemedicalphysicist.github.io/gifs/Rat_Gif.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </center>
+
+
+<script> 
+  var myVideo = document.getElementById("ratDyn"); 
+  myVideo.playbackRate = 0.25
+</script> 
